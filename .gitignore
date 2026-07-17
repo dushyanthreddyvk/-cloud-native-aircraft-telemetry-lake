@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Local mock storage and databases
+data/
+bq_mock.db
+*.db
+
+# IDEs and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
